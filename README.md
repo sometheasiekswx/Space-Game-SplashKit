@@ -4,8 +4,7 @@ Made by [Somethea Siek](https://github.com/sometheasiekswx), an Aspiring Develop
 
 ## Screenshot
 
-Sth.
-![Preview of Shape-Mover-SplashKit](https://github.com/sometheasiekswx/Shape-Mover/blob/master/shape-mover.jpg "Preview of Shape-Mover-SplashKit")
+![Preview of Space-Game-SplashKit](https://github.com/sometheasiekswx/Space-Game-SplashKit/sth "Preview of Space-Game-SplashKit")
 
 ## Description
 
