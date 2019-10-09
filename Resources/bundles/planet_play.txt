@@ -1,0 +1,34 @@
+// Ships
+BITMAP,aquarii,Aquarii.png                            
+BITMAP,gliese,Gliese.png                             
+BITMAP,pegasi,Pegasi.png    
+BITMAP,laser,laser.png                         
+// Planets
+BITMAP,earth,earth.png                              
+BITMAP,jupiter,jupiter.png
+BITMAP,mars,mars.png
+BITMAP,mercury,mercury.png
+BITMAP,neptune,neptune.png
+BITMAP,pluto,pluto.png
+BITMAP,saturn,saturn.png
+BITMAP,uranus,uranus.png
+BITMAP,venus,venus.png
+// Coins
+BITMAP,silver_coin,silver_coin.png,26,26,6,1,6
+BITMAP,bronse_coin,bronse_coin.png,26,26,6,1,6                
+BITMAP,gold_coin,gold_coin.png,26,26,6,1,6
+// Font
+FONT,cnr,cnr.otf
+//Music
+MUSIC,tomorrow,tomorrow.mp3
+// Sound Effect
+SOUND,explosion_4,explosion_4.wav
+SOUND,alien_machine_gun,alien_machine_gun.wav
+SOUND,short_triumphal_fanfare,short_triumphal_fanfare.wav
+// Other
+BITMAP,exit_button,exit_button.png
+BITMAP,star,star.png
+BITMAP,box,box.png
+BITMAP,empty,empty.png
+BITMAP,full,full.png
+
