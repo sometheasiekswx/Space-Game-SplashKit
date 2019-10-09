@@ -4,7 +4,7 @@ Made by [Somethea Siek](https://github.com/sometheasiekswx), an Aspiring Develop
 
 ## Screenshot
 
-![Preview of Space-Game-SplashKit](https://github.com/sometheasiekswx/Space-Game-SplashKit/sth "Preview of Space-Game-SplashKit")
+![Preview of Space-Game-SplashKit](https://github.com/sometheasiekswx/Space-Game-SplashKit/blob/master/space-game.jpg "Preview of Space-Game-SplashKit")
 
 ## Description
 
