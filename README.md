@@ -8,7 +8,7 @@ Made by [Somethea Siek](https://github.com/sometheasiekswx), an Aspiring Develop
 
 ## Description
 
-Sth.
+A space game where you shoot lasers to destroy enemy ships. Each spaceship destroyed will make the level harder.
 
 ## To Compile & Run:
 ### Linux/Mac: 
